@@ -7,7 +7,7 @@ I direct AI coding agents. I don't hand write code. I make every architecture ca
 **Since February 2026, solo:**
 
 * 3,000+ commits, 900 merged changes, 411 tests, about 40,000 lines of Rust
-* Moved my own live health database to encrypted: 615,982 rows, zero lost, rehearsed with a rollback
+* Moved my own live database to encrypted: 615,982 rows, zero lost, rehearsed with a rollback
 * Restored it from an offsite copy with the real key
 * Found 4 of my own checks passing while checking nothing, then built tests that break them on purpose
 
