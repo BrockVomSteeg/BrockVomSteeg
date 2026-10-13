@@ -19,4 +19,4 @@ Building with AI since 2024.
 
 * The encryption move: [arkhelion.ai/dossier](https://arkhelion.ai/dossier/#encrypting-a-database-that-already-holds-data)
 * A study I published, code and mistakes included: [arkhelion.ai/study](https://arkhelion.ai/study/)
-* The product: [arkhelion.ai](https://arkhelion.ai)
+* Reserve early access: [arkhelion.ai](https://arkhelion.ai)
